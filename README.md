@@ -15,6 +15,8 @@
 
 [다운로드](https://objectstorage.ap-chuncheon-1.oraclecloud.com/n/axns7vzun2pq/b/bucket-20231116-1622/o/%EC%A3%BC%EC%88%98%EB%A6%AC%ED%97%AC%ED%8D%BC.exe)
 
+---
+
 ![image](https://github.com/user-attachments/assets/d8efbdcf-ae82-4606-8eec-ba3481209af2)
 
 
@@ -28,21 +30,30 @@
 
 [다운로드](https://objectstorage.ap-chuncheon-1.oraclecloud.com/n/axns7vzun2pq/b/bucket-20231116-1622/o/%EB%8F%99%EB%8F%99%ED%95%84%ED%97%AC%ED%8D%BC.exe)
 
-![image](https://github.com/user-attachments/assets/deedb187-3f1a-4e0a-b36e-4ca59b9d7389)
+---
+
+![image](https://github.com/user-attachments/assets/28ea2f79-1de6-44e3-a56c-374cdd22f523)
 
 
 
 ### 왕퀘 헬퍼
 
-##### 1920*1080 해상도에서만 동작합니다.
+##### 바람의나라 클라이언트 1920*1080 해상도에서만 동작합니다.
 
 왕이 잘 보이는 위치에서 F7 눌러서 사용하세요. 
 
 다시 F7 누르면 중지됩니다. F7누르면 재개합니다.
 
-첫 서칭 성공 후 재개할땐 F7 두번 누르면 됩니다. 서버 렉이 심해서 꼬일때는 F7 두번 토글로 다시 실행시켜주세요.
+첫 서칭 성공 후 재개할땐 F7 두번 누르면 됩니다. 
 
-[다운로드](https://objectstorage.ap-chuncheon-1.oraclecloud.com/n/axns7vzun2pq/b/bucket-20231116-1622/o/%EC%99%95%ED%80%98%ED%97%AC%ED%8D%BC.zip)
+왕궁 출캐에게 출두 F3 
+
+던전 출캐에게 출두 F4
+
+서칭 후 바로 던전 출두 체크박스 추가될 예정입니다.
+
+[다운로드(부여)](https://objectstorage.ap-chuncheon-1.oraclecloud.com/n/axns7vzun2pq/b/bucket-20231116-1622/o/%EC%99%95%ED%80%98%ED%97%AC%ED%8D%BC_%EB%B6%80%EC%97%AC.exe)
+[다운로드(고구려)](https://objectstorage.ap-chuncheon-1.oraclecloud.com/n/axns7vzun2pq/b/bucket-20231116-1622/o/%EC%99%95%ED%80%98%ED%97%AC%ED%8D%BC_%EA%B3%A0%EA%B5%AC%EB%A0%A4.exe)
 
 
 
