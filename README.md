@@ -1,7 +1,8 @@
 바람의나라 클래식 매크로
 ---
 
-![image](https://github.com/user-attachments/assets/1121311f-b966-481e-8943-c38ef156ba44)
+![image](https://github.com/user-attachments/assets/5d4baa93-15ec-408e-8f27-f899f9c6070d)
+
 
 ### 주수리 헬퍼
 
